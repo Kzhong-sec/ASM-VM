@@ -5,3 +5,7 @@ A virtual machine written in x86 assembly that executes bytecode to:
 Assembled by FASM
 
 ![Decrypted Message](screenshot/messagebox%20screenshot.png)
+
+Disassembler output:
+![Disassembler Output](screenshot/disassembler_output.png)
+
